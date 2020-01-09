@@ -1,0 +1,13 @@
+{
+    "experiment_id": "test_on_average_score",
+    "description": "Evaluate Task 1 model on averaged scores.",
+    "train_file": "../../data/features/task1/train.csv",
+    "test_file": "../../data/features/task1/test.csv",
+    "train_label_column": "score",
+    "test_label_column": "average_score",
+    "model": "LinearRegression",
+    "trim_min": 1,
+    "trim_max": 6,
+    "id_column": "id",
+    "features": "features.csv"
+}

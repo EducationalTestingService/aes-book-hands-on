@@ -1,0 +1,15 @@
+{
+    "experiment_id": "remove_insignificant_features",
+    "description": "Remove all features with insignificant contributions.",
+    "train_file": "../../data/features/task1/train.csv",
+    "test_file": "../../data/features/task1/dev.csv",
+    "train_label_column": "score",
+    "test_label_column": "score",
+    "model": "LinearRegression",
+    "trim_min": 1,
+    "trim_max": 6,
+    "id_column": "id",
+    "second_human_score_column": "score2",
+    "features": ["LOGWORDS", "LOGTYPES", "%FUNC", 
+                 "AVG_WLEN", "%IN", "%MISSPELLED"]
+}

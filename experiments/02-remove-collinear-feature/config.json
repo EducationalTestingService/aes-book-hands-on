@@ -1,0 +1,18 @@
+{
+    "experiment_id": "remove_types_and_words",
+    "description": "Remove TYPES and WORDS features.",
+    "train_file": "../../data/features/task1/train.csv",
+    "test_file": "../../data/features/task1/dev.csv",
+    "train_label_column": "score",
+    "test_label_column": "score",
+    "model": "LinearRegression",
+    "trim_min": 1,
+    "trim_max": 6,
+    "id_column": "id",
+    "second_human_score_column": "score2",
+    "features": ["LOGWORDS", "LOGTYPES", "%FUNC", 
+                 "%QUESTION", "%EXCLAIM", "AVG_WLEN", "SD_WLEN", 
+                 "AVG_WFREQ", "SD_WFREQ", "%CC", "%CD", "%DT", "%IN", 
+                 "%JJ", "%MD", "%NN", "%PRP", "%RB", "%VB", 
+                 "%MISSPELLED", "%REPEATED", "LM"]
+}

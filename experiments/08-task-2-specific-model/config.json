@@ -1,0 +1,14 @@
+{
+    "experiment_id": "task_2_specific_model",
+    "description": "Train and evaluate a model on Task 2.",
+    "train_file": "../../data/features/task2/train.csv",
+    "test_file": "../../data/features/task2/test.csv",
+    "train_label_column": "score",
+    "test_label_column": "score",
+    "model": "LinearRegression",
+    "trim_min": 1,
+    "trim_max": 6,
+    "id_column": "id",
+    "second_human_score_column": "score2",
+    "features": "features.csv"
+}

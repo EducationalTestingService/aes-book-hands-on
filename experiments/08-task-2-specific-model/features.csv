@@ -1,0 +1,6 @@
+feature,sign,transform
+%IN,-1,raw
+%MISSPELLED,-1,raw
+AVG_WLEN,1,raw
+LOGTYPES,1,raw
+LOGWORDS,1,raw

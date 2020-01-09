@@ -1,0 +1,14 @@
+{
+    "experiment_id": "use_different_machine_learner",
+    "description": "Use a different machine learner.",
+    "train_file": "../../data/features/task1/train.csv",
+    "test_file": "../../data/features/task1/test.csv",
+    "train_label_column": "score",
+    "test_label_column": "score",
+    "model": "MLPRegressor",
+    "trim_min": 1,
+    "trim_max": 6,
+    "id_column": "id",
+    "second_human_score_column": "score2",
+    "features": "features.csv"
+}

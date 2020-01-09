@@ -1,0 +1,14 @@
+{
+    "experiment_id": "remove_percent_func_feature",
+    "description": "Remove %FUNC feature from model.",
+    "train_file": "../../data/features/task1/train.csv",
+    "test_file": "../../data/features/task1/dev.csv",
+    "train_label_column": "score",
+    "test_label_column": "score",
+    "model": "LinearRegression",
+    "trim_min": 1,
+    "trim_max": 6,
+    "id_column": "id",
+    "second_human_score_column": "score2",
+    "features": "features.csv"
+}

@@ -1,0 +1,14 @@
+{
+    "experiment_id": "evaluate_on_task_2",
+    "description": "Evaluate the task 1 final learned model on task 2 evaluation set.",
+    "train_file": "../../data/features/task1/train.csv",
+    "test_file": "../../data/features/task2/test.csv",
+    "train_label_column": "score",
+    "test_label_column": "score",
+    "model": "LinearRegression",
+    "trim_min": 1,
+    "trim_max": 6,
+    "id_column": "id",
+    "second_human_score_column": "score2",
+    "features": "features.csv"
+}
