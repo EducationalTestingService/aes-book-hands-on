@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains resources for the hands-on exercises that are included in Chapter 3 the Morgan Claypool book on _Automated Essay Scoring_ by [Beata Beigman Klebanov](https://sites.google.com/site/beatabeigmanklebanov/) and [Nitin Madnani](https://desilinguist.org).
+This repository contains the supporting files for the hands-on exercises that are included in Chapter 3 of the Morgan Claypool book on _Automated Essay Scoring_ by [Beata Beigman Klebanov](https://sites.google.com/site/beatabeigmanklebanov/) and [Nitin Madnani](https://desilinguist.org).
 
 # What's here
 
