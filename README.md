@@ -47,7 +47,7 @@ Once `conda` is installed, you can install RSMTool and all its dependencies as f
 conda env create -f environment.yaml
 ```
 
-This will create a conda environment called `aesexpts` that can then be used to run any of the RSMTool experiments. For example, to run the RSMTool experiment contained with all of the features:
+This will create a conda environment called `aesexpts` that can then be used to run any of the RSMTool experiments. For example, to run the RSMTool experiment with all of the features:
 
 ```bash
 conda activate aesexpts
