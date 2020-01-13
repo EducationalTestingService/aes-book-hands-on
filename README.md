@@ -56,3 +56,7 @@ rsmtool config.json
 ```
 
 Running this set of commands will produce the final RSMTool evaluation report under `report/all_features_report.html` in the same directory.
+
+# Help
+
+If you have any problems running any of the experiments, please [file an issue](https://github.com/desilinguist/aes-book-hands-on/issues/new).
