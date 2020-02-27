@@ -1,6 +1,5 @@
 feature,sign,transform
 %FUNC,-1,raw
-%IN,-1,raw
 %MISSPELLED,-1,raw
 AVG_WLEN,1,raw
 LOGTYPES,1,raw
