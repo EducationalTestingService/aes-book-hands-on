@@ -3,5 +3,5 @@ channels:
   - conda-forge
   - ets
 dependencies:
-  - python=3.6
-  - rsmtool=7.1.0
+  - python=3.8
+  - rsmtool=8.0.1
