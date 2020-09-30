@@ -4,4 +4,4 @@ channels:
   - ets
 dependencies:
   - python=3.8
-  - rsmtool=8.0.1
+  - rsmtool=8.0.2
