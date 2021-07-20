@@ -12,9 +12,9 @@ The repository has the following structure:
 
 ```
 ├── data
-│   ├── essays
-│   ├── features
-│   └── rubrics
+│   ├── essays
+│   ├── features
+│   └── rubrics
 ├── environment.yaml
 └── experiments
     ├── 00-all-features
