@@ -4,4 +4,5 @@ channels:
   - ets
 dependencies:
   - python=3.8
-  - rsmtool=8.0.2
+  - rsmtool=8.1.2
+  - pandas=1.3.0
