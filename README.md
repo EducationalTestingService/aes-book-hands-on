@@ -35,7 +35,7 @@ The repository has the following structure:
 
 The [`data`](data) directory contains: (a) the scoring guidelines or [`rubrics`](data/rubrics) for ASAP writing tasks 1 and 2 (b) the [`essays`](data/essays) from the tasks – split into a training set, a development set, and a test set (b) the [`features`](data/features) extracted from the essays in each of the three datasets to be used for building the automated scoring models via RSMTool.
 
-Each sub-directory under [`experiments`](experiments) contains one of the experiments from the book chapter. For example, the sub-directory [`00-all-features`](experiments/00-all-features) corresponds to section 3.1 from the book chapter entitled *Experiment 0: Use all features*.
+Each sub-directory under [`experiments`](experiments) contains one of the experiments from chapter 3 of the book. For example, the sub-directory [`00-all-features`](experiments/00-all-features) corresponds to the section 3.1, entitled *Experiment 0: Use all features*.
 
 # Setup
 
